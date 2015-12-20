@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Training Zone</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../Styles/styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="wrapper">
+  <header>
+   <h1 class="title"><a href="../index.html">Training Zone</a></h1>
+    <nav id="nav_bar">
+      <ul>
+        <li><a href="../history.html">History</a></li>
+        <li><a href="../article.html">Article</a></li>
+        <li><a href="../contact.html">Contact</a></li>
+        <li><a href="../announcement.html">Announcement</a></li>
+        <li><a href="../links.html">Link</a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- TemplateBeginEditable name="EditRegion3" -->
+  <div id="main">
+    <article> </article>
+    <aside id="sidebar">
+      
+    </aside>
+ 
+</div>
+  <!-- TemplateEndEditable -->
+<div id="footer">
+  ©Copyright Training Zone
+</div> </div>
+</body>
+</html>
